@@ -41,12 +41,10 @@ The dashboard is designed to provide insights into:
 
 ## Screenshots
 ![1728381258767](https://github.com/user-attachments/assets/c24fe278-8ca6-4cfa-9f21-d2f716b07b51)
-
+![1728381326432](https://github.com/user-attachments/assets/71a1bcf9-6dd5-4d53-9875-e583b1bd9dce)
 
 ## Requirements
 - **Power BI Desktop**: To view and interact with the dashboard, you will need Power BI Desktop installed.
-- ![1728381326432](https://github.com/user-attachments/assets/71a1bcf9-6dd5-4d53-9875-e583b1bd9dce)
-
 
 ## Getting Started
 1. Clone this repository.
