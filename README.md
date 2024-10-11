@@ -43,6 +43,8 @@ The dashboard is designed to provide insights into:
 ![1728381258767](https://github.com/user-attachments/assets/c24fe278-8ca6-4cfa-9f21-d2f716b07b51)
 ![1728381326432](https://github.com/user-attachments/assets/71a1bcf9-6dd5-4d53-9875-e583b1bd9dce)
 
+Here is interactive dashboard:
+https://app.powerbi.com/groups/me/reports/f706678e-7556-40cc-8461-42bae98a9edf/c1107a955710110d4d81?experience=power-bi
 ## Requirements
 - **Power BI Desktop**: To view and interact with the dashboard, you will need Power BI Desktop installed.
 
