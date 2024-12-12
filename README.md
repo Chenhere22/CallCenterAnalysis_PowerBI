@@ -14,7 +14,7 @@ The dashboard includes the following main sections:
 
 ### 2. Agent Performance
 - **Agent Activity**: A bar chart showing the number of calls handled by each agent. This helps evaluate individual agent performance.
-- 
+ 
 - **Average Handling Time (AHT)**: A KPI card indicating the average time taken to handle calls. Lower AHT is generally preferred, indicating efficient handling.
 
 ### 3. Customer Satisfaction
